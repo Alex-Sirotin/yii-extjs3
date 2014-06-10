@@ -8,20 +8,18 @@ yii-extjs3
 
 *   sql - скрипты для создания БД
 *   www - корневой каталог сайта:
-
     *   assets - вспомогательная папка Yii
     *   css - файлы css
     *   extjs - библиотека ExtJS
     *   images - изображения
     *   js - файлы Javascript (основные доработки по ExtJS)
-
-    *   issue.js - стартовый файл для ExtJS
-    *   issueForm.js - форма ввода темы
-    *   issueGrid.js - грид тем
-    *   messageForm.js - форма ввода сообщения
-    *   messageGrid.js - грид сообщений
-    *   utils.js - вспомогательный функции
-    *   protected - основной функционал на PHP
+      *   issue.js - стартовый файл для ExtJS
+      *   issueForm.js - форма ввода темы
+      *   issueGrid.js - грид тем
+      *   messageForm.js - форма ввода сообщения
+      *   messageGrid.js - грид сообщений
+      *   utils.js - вспомогательный функции
+      *   protected - основной функционал на PHP
         *   components - переопределенные классы Yii
         *   config - конфигурация приложения
         *   controllers - контроллеры (здесь основные изменения для задания)
@@ -29,7 +27,7 @@ yii-extjs3
         *   runtime - вспомогательная папка Yii
         *   views - представления, за небольшим исключением (layouts и подпапки extjs) - автогенерация
     *   themes - темы для Yii (используются по умолчанию без модификации)
-*   Yii - PHP-framework
+    *   Yii - PHP-framework
 
 ### Требования
 
