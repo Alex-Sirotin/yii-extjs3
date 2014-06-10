@@ -27,7 +27,7 @@ yii-extjs3
         *   runtime - вспомогательная папка Yii
         *   views - представления, за небольшим исключением (layouts и подпапки extjs) - автогенерация
       *   themes - темы для Yii (используются по умолчанию без модификации)
-    *   Yii - PHP-framework
+*   Yii - PHP-framework
 
 ### Требования
 
