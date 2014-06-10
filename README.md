@@ -1,8 +1,5 @@
-yii-extjs3
+ExtJS+Yii (test)
 ==========
-
-#ExtJS+Yii (test)
-
 
 ### Состав
 
